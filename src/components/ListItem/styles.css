@@ -1,0 +1,14 @@
+.listItem {
+  margin: 24px 0;
+}
+.listItem strong {
+  color: #5398F5;
+  font-size: 24px;
+  margin: 24px 0;
+}
+
+.listItem p {
+  color: #999999;
+  font-size: 12px;
+  margin: 24px 0;
+}
